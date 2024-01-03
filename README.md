@@ -33,8 +33,8 @@
 
 ![image](https://github.com/ADITHYA23000033/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/148514544/3c64294f-798c-473a-a648-06b9913bc34f)
 
-### Name:   ADITHYA V
-### Register Number: 23000033
+### Name:   DEVESH S
+### Register Number: 23004345
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
